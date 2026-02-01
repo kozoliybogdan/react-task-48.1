@@ -7,3 +7,7 @@ React-проєкт з інтеграцією Material UI.
 ```bash
 npm install
 npm run dev
+
+```
+## Demo (Vercel)
+https://react-task-48-1.vercel.app/
